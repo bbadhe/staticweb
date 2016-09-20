@@ -1,2 +1,2 @@
 # staticweb
-This is sample static web project
+This is sample docker build testing 
