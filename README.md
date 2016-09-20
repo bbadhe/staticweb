@@ -1,2 +1,2 @@
 # staticweb
-test
+This is sample static web project
